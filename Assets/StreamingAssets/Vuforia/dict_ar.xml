@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="sun2" size="0.200000 0.112500" />
+    <ImageTarget name="meteoroids" size="0.200000 0.102187" />
+    <ImageTarget name="thailand-3-627x1024" size="0.200000 0.326635" />
+    <ImageTarget name="india" size="0.200000 0.223358" />
+  </Tracking>
+</QCARConfig>
