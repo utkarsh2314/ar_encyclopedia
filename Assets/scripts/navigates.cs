@@ -21,6 +21,10 @@ public class navigate : MonoBehaviour
     {
         SceneManager.LoadScene(3);
     }
+    public void ar_cam ()
+    {
+        SceneManager.LoadScene(4);
+    }
     public void quit_it ()
     {
         Debug.Log("QUIT");

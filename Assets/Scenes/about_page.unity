@@ -201,11 +201,12 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1337874205095804267, guid: abde658c0610da04a8814c1815725140, type: 3}
       propertyPath: m_text
-      value: LEARN ABOUT THE NATIONAL ANIMALS,GALAXY  BY POINTING AT THEIR IMAGES.
+      value: Learn about the national animals,Celestial bodies by pointing at their
+        images.It contains audio learning
       objectReference: {fileID: 0}
     - target: {fileID: 1337874205095804267, guid: abde658c0610da04a8814c1815725140, type: 3}
       propertyPath: m_fontSize
-      value: 80
+      value: 70
       objectReference: {fileID: 0}
     - target: {fileID: 1337874205095804267, guid: abde658c0610da04a8814c1815725140, type: 3}
       propertyPath: m_margin.w
@@ -213,23 +214,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1337874205095804267, guid: abde658c0610da04a8814c1815725140, type: 3}
       propertyPath: m_fontSizeBase
-      value: 80
+      value: 70
       objectReference: {fileID: 0}
     - target: {fileID: 3859237552511896473, guid: abde658c0610da04a8814c1815725140, type: 3}
       propertyPath: m_SizeDelta.x
-      value: -283.9409
+      value: -237.7712
       objectReference: {fileID: 0}
     - target: {fileID: 3859237552511896473, guid: abde658c0610da04a8814c1815725140, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 719.5767
+      value: 571.87
       objectReference: {fileID: 0}
     - target: {fileID: 3859237552511896473, guid: abde658c0610da04a8814c1815725140, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -79.65773
+      value: -72.1998
       objectReference: {fileID: 0}
     - target: {fileID: 3859237552511896473, guid: abde658c0610da04a8814c1815725140, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -423.04584
+      value: -317.57
       objectReference: {fileID: 0}
     - target: {fileID: 5539588064781484078, guid: abde658c0610da04a8814c1815725140, type: 3}
       propertyPath: m_Name
@@ -269,7 +270,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6478005595159506399, guid: abde658c0610da04a8814c1815725140, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 821.5336
+      value: 646.6693
       objectReference: {fileID: 0}
     - target: {fileID: 6478005595159506399, guid: abde658c0610da04a8814c1815725140, type: 3}
       propertyPath: m_LocalPosition.x
@@ -305,7 +306,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6478005595159506399, guid: abde658c0610da04a8814c1815725140, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -1383.3759
+      value: -1295.9438
       objectReference: {fileID: 0}
     - target: {fileID: 6478005595159506399, guid: abde658c0610da04a8814c1815725140, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x

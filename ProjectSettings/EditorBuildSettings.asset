@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/about_page.unity
     guid: 8a72f7ae350ee37468bb9f553b45ca6d
+  - enabled: 1
+    path: Assets/Scenes/Ar_cam.unity
+    guid: 545d122b05354ed4ebfc2186c114a2d5
   m_configObjects: {}
