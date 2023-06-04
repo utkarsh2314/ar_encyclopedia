@@ -445,8 +445,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 617440983}
-        m_TargetAssemblyTypeName: navigate, Assembly-CSharp
+      - m_Target: {fileID: 337080920}
+        m_TargetAssemblyTypeName: Loaderanimation, Assembly-CSharp
         m_MethodName: animal_page
         m_Mode: 1
         m_Arguments:
@@ -646,8 +646,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 617440983}
-        m_TargetAssemblyTypeName: navigate, Assembly-CSharp
+      - m_Target: {fileID: 337080920}
+        m_TargetAssemblyTypeName: Loaderanimation, Assembly-CSharp
         m_MethodName: galaxy_page
         m_Mode: 1
         m_Arguments:
@@ -658,6 +658,17 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &337080920 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7157065035930060494, guid: 8b182d44e83505c44a50664179826721, type: 3}
+  m_PrefabInstance: {fileID: 791941155126213116}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: feb4fc6baec222646a9e5759fd29e694, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &612078329
 GameObject:
   m_ObjectHideFlags: 0
@@ -779,8 +790,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 617440983}
-        m_TargetAssemblyTypeName: navigate, Assembly-CSharp
+      - m_Target: {fileID: 337080920}
+        m_TargetAssemblyTypeName: Loaderanimation, Assembly-CSharp
         m_MethodName: about_page
         m_Mode: 1
         m_Arguments:
@@ -1470,8 +1481,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 617440983}
-        m_TargetAssemblyTypeName: navigate, Assembly-CSharp
+      - m_Target: {fileID: 337080920}
+        m_TargetAssemblyTypeName: Loaderanimation, Assembly-CSharp
         m_MethodName: about_page
         m_Mode: 1
         m_Arguments:
@@ -1765,8 +1776,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 617440983}
-        m_TargetAssemblyTypeName: navigate, Assembly-CSharp
+      - m_Target: {fileID: 337080920}
+        m_TargetAssemblyTypeName: Loaderanimation, Assembly-CSharp
         m_MethodName: galaxy_page
         m_Mode: 1
         m_Arguments:
@@ -2060,8 +2071,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 617440983}
-        m_TargetAssemblyTypeName: navigate, Assembly-CSharp
+      - m_Target: {fileID: 337080920}
+        m_TargetAssemblyTypeName: Loaderanimation, Assembly-CSharp
         m_MethodName: animal_page
         m_Mode: 1
         m_Arguments:
@@ -2072,6 +2083,75 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!1001 &791941155126213116
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2850834535379150187, guid: 8b182d44e83505c44a50664179826721, type: 3}
+      propertyPath: m_Alpha
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2850834535379150187, guid: 8b182d44e83505c44a50664179826721, type: 3}
+      propertyPath: m_Interactable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4379201388788432523, guid: 8b182d44e83505c44a50664179826721, type: 3}
+      propertyPath: m_Name
+      value: LevelLoader
+      objectReference: {fileID: 0}
+    - target: {fileID: 8336067547268712685, guid: 8b182d44e83505c44a50664179826721, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8336067547268712685, guid: 8b182d44e83505c44a50664179826721, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 667.6599
+      objectReference: {fileID: 0}
+    - target: {fileID: 8336067547268712685, guid: 8b182d44e83505c44a50664179826721, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1181.5533
+      objectReference: {fileID: 0}
+    - target: {fileID: 8336067547268712685, guid: 8b182d44e83505c44a50664179826721, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.434266
+      objectReference: {fileID: 0}
+    - target: {fileID: 8336067547268712685, guid: 8b182d44e83505c44a50664179826721, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8336067547268712685, guid: 8b182d44e83505c44a50664179826721, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8336067547268712685, guid: 8b182d44e83505c44a50664179826721, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8336067547268712685, guid: 8b182d44e83505c44a50664179826721, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8336067547268712685, guid: 8b182d44e83505c44a50664179826721, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8336067547268712685, guid: 8b182d44e83505c44a50664179826721, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8336067547268712685, guid: 8b182d44e83505c44a50664179826721, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8b182d44e83505c44a50664179826721, type: 3}
 --- !u!1001 &2046258242585723743
 PrefabInstance:
   m_ObjectHideFlags: 0
